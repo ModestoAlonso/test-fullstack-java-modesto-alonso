@@ -67,6 +67,6 @@ Se recomienda ir haciendo commits a medida que se avanza con la solución. Agrup
 Luego al finalizar enviar un email con el link al fork a la persona que te envió este test.
 
 
-*Ante cualquier duda podes contactarme directamente al correo [marcelo.lopez@somosetica.com](mailto:marcelo.lopez@somosetica.com)*
+*Ante cualquier duda podes contactarme directamente al correo [marcelo.lopez@somosetica.com](mailto:marcelo.lopez@somosetica.com) o con la persona encargada de tu entrevista*
 
 ¡Buena suerte de parte de todo el equipo de e-tica!
