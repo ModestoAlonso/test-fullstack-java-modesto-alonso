@@ -42,7 +42,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @WebMvcTest(UsuariosController.class)
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 @ExtendWith(MockitoExtension.class)
-@AutoConfigureRestDocs(outputDir = "target/snippets")
 public class UsuarioControllerTest {
     @Autowired
     public MockMvc mvc;

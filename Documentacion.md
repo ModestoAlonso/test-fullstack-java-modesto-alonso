@@ -44,6 +44,8 @@ Lista los usuarios registrados en la BD.
 * email : Email de usuario
 * estado: Lista de estados de los usuarios a obtener, pueden ser activo o inactivo
 * rol:  Lista de roles de los usuarios a obtener, pueden ser admin o consultor
+* paginaNumero: Nùmero de la pagina a consultar, paginaciòn.
+* size: Tamaño de la pàgina
 
 ### Ejemplo URL
 

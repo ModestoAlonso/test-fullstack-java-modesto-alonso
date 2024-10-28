@@ -86,7 +86,6 @@ public class UsuarioServiceTest {
         usuario.setNombre("TestSuperado");
         ResponseEntity<Object> responseEntity = RestResponse.generateResponse("Usuario modificado correctamente", HttpStatus.OK, usuario);
         UsuarioModificar usuarioModificar = new UsuarioModificar();
-        usuarioModificar.setId(1);
         usuarioModificar.setNombre("TestSuperado");
         given(usuarioService.editar(any(Integer.class),any(UsuarioModificar.class))).willReturn(responseEntity);
 
